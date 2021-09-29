@@ -1,7 +1,6 @@
-package com.example.kampus_merdeka_1;
+package com.example.challange;
 
-import androidx.appcompat.app.AppCompatActivity;
-
+import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
 public class MainActivity extends AppCompatActivity {
